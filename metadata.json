@@ -1,0 +1,7 @@
+{
+  "name": "TUN.UZ",
+  "description": "The Ultimate Media Ecosystem. A premium, AI-powered news platform for the modern age.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
